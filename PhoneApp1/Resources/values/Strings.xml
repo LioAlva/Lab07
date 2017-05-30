@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">PhoneApp</string>
+    <string name="CallHistory">Historia de Llamadas</string>
+    <string name="textNomCorreo">Correo:</string>
+    <string name="textNomContrasenia">Contraseña:</string>
+    <string name="textNomValidar">Validar:</string>
+    <string name="textNomActValidar">Validar Actividad:</string>
+</resources>
